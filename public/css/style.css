@@ -1,0 +1,156 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background: #fff;
+}
+
+.container {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #fff;
+}
+
+.logo {
+    width: 50px;
+    display: inline-block;
+    margin-left: -30px;
+}
+
+.navbar {
+    position: absolute;
+    top: 25px;
+    right: 0px;
+    width: 700px;
+    padding: 5px;
+}
+
+.a {
+    color: #cd2653;
+    text-decoration: none;
+    padding-right: 20px;
+    font-size: 0.7em;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.b {
+    display: block;
+    margin-top: -60px;
+    margin-left: 50px;
+    color: #6d6d83;
+}
+
+.c {
+    font-weight: bold;
+    font-size: 4em;
+    margin-top: 40px;
+    text-align: center;
+}
+.icon{
+    color: #000;
+}
+.main {
+    background-color: #deedf4;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.photo {
+    text-align: center;
+}
+
+.ar {
+    width: 500px;
+}
+
+.text {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.cd {
+    display: inline-block;
+    width: 160px;
+    margin: 0 auto;
+}
+
+.pt {
+    width: 130px;
+}
+
+.main1 {
+    margin: 0 auto;
+    width: 500px;
+}
+
+.sp {
+    font-weight: bold;
+    font-size: 3em;
+    color: #113b69;
+    margin: 5px 0;
+}
+
+.sp1 {
+    color: #113b69;
+    margin-right: 0;
+    padding-left: 50px;
+}
+.sp2{
+    color: #113b69;
+    margin-right: 0;
+    padding-left: 250px;
+}
+.pd {
+    height: 30px;
+}
+
+.optional {
+    font-size: 1.1em;
+    font-weight: bold;
+    margin: 5px 0;
+}
+
+.foo {
+    width: 650px;
+    text-align: left;
+    margin: 0 auto;
+}
+
+.search {
+    display: inline-block;
+    width: 80px;
+    background-color: #d50139;
+    margin-bottom: 20px;
+    border: #000 .5px solid;
+    padding: 4px;
+}
+
+.line {
+    border: #000 .5px solid;
+    margin-bottom: 30px;
+}
+
+.lef {
+    display: inline-block;
+    text-align: end;
+}
+.toptop{
+   padding-left: 250px;
+}
+.toptop1{
+    padding-left: 250px;
+ }
+ .last{
+    color: #6d6d83;
+ }
+ .llast{
+     color: #fff;
+     font-weight: bold;
+     text-decoration: none;font-size: 0.8em;
+ }
